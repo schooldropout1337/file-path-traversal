@@ -1,0 +1,1 @@
+/uploads for uploaded images
